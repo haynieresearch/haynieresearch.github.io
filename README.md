@@ -1,5 +1,6 @@
 Haynie Research & Development GitHub Page
 =========================
+[![Build Status](https://travis-ci.org/haynieresearch/haynieresearch.github.io.svg?branch=master)](https://travis-ci.org/haynieresearch/haynieresearch.github.io)
 
 Just a simple GitHub page!
 
